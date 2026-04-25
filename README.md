@@ -14,7 +14,7 @@ Redux Toolkit
 Tailwind CSS
 RapidAPI
 ⚙️ Setup
-git clone https://github.com/ShakirFarhan/Youtube-Clone.git
+(https://github.com/vikalpandey2003/YouTube-Clone--vk.git)
 cd Youtube-Clone
 npm install
 
